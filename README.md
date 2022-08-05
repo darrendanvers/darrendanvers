@@ -1,4 +1,4 @@
 ### Hi, I'm Darren 👋
 
-- 👀 Im interested in secure mobile development
-- 🌱 I’m currently learning iOS programming
+- 👀 Im interested in data engineering
+- 🌱 I’m currently learning Python
